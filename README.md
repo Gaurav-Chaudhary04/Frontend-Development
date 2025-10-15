@@ -1,5 +1,16 @@
-# 🧱 HTML — Structure of the Web
+# 🧠 HTML Iframes & Basic HTML Assignment  
+**Author:** Gaurav Chaudhary  
+**Course:** Web Development (5th Semester)  
+**Institute:** GLA University  
 
-### Welcome to the HTML branch of the Frontend Development repository!
+---
 
-This branch focuses on mastering **HTML (HyperText Markup Language)** — the foundation of every webpage. Here, you’ll learn how to structure content, create semantic layouts, and build accessible web pages from scratch.
+## 📘 Overview
+This assignment demonstrates the use of **HTML iframes**, **framesets**, and **basic HTML elements** across 20 questions.  
+Each question is implemented in a **separate `.html` file**, following all given instructions:
+- ✅ Only pure HTML (no CSS or JavaScript)
+- ✅ Proper indentation and comments
+- ✅ Use of attributes like `title`, `loading`, `required`, `autocomplete`, etc.
+- ✅ UTF-8 encoding and semantic structure
+
+---
