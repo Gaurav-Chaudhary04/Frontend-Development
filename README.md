@@ -1,5 +1,24 @@
-# 🧱 HTML — Structure of the Web
+# 🧠 HTML Block and Inline Elements Assignment  
+**Author:** Gaurav Chaudhary  
+**Course:** Web Development (5th Semester)  
+**Institute:** GLA University  
+**Branch:** html-block-and-inline-elements
 
-### Welcome to the HTML branch of the Frontend Development repository!
+---
 
-This branch focuses on mastering **HTML (HyperText Markup Language)** — the foundation of every webpage. Here, you’ll learn how to structure content, create semantic layouts, and build accessible web pages from scratch.
+## 📘 Overview
+This branch contains a **single HTML file** demonstrating various **HTML block-level and inline elements** along with **semantic structure** examples:
+
+- Resume page  
+- Product catalog tables  
+- Forms with inputs and dropdowns  
+- Nested lists  
+- Menus, schedules, reports, travel pages  
+- Blog, portfolio, and movie database layouts  
+- Pure HTML (no CSS/JS)  
+- Proper indentation, comments, and UTF-8 encoding
+
+---
+
+## 📂 File
+- `html-structure-examples.html` – Contains all the above examples in one file.
