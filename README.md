@@ -1,5 +1,5 @@
 # 🧱 HTML — My First Web Page  
-**Author:** Gaurav Chaudhary 
+**Author:** Gaurav Chaudhary  
 **Course:** Web Development (5th Semester)  
 **Institute:** GLA University  
 **Branch:** html  
