@@ -1,17 +1,26 @@
-# 🧠 HTML Iframes & Basic HTML Assignment  
+# 🎨 CSS Basics Assignment  
 **Author:** Gaurav Chaudhary  
 **Course:** Web Development (5th Semester)  
 **Institute:** GLA University  
-**Branch:** html-iframes
+**Branch:** css  
 
 ---
 
 ## 📘 Overview
-This assignment demonstrates the use of **HTML iframes**, **framesets**, and **basic HTML elements** across 20 questions.  
-Each question is implemented in a **separate `.html` file**, following all given instructions:
-- ✅ Only pure HTML (no CSS or JavaScript)
-- ✅ Proper indentation and comments
-- ✅ Use of attributes like `title`, `loading`, `required`, `autocomplete`, etc.
-- ✅ UTF-8 encoding and semantic structure
+This assignment demonstrates the use of **core CSS styling and layout techniques** applied through 10 structured questions.  
+Each question includes **separate `.html` and `.css` files** implementing modern, semantic, and responsive web design principles.
+
+---
+
+## 🧩 Topics Covered
+- ✅ CSS Selectors, Colors, and Units (`px`, `em`, `rem`, `%`, `vh`)  
+- ✅ Flexbox and Grid Layouts  
+- ✅ Background Images, Gradients & Parallax Effects  
+- ✅ Box Model (Margin, Border, Padding, Outline)  
+- ✅ Pseudo-classes and Pseudo-elements (`:hover`, `:focus`, `::first-letter`, `::first-line`)  
+- ✅ Responsive Design using Media Queries  
+- ✅ Form Styling and Centering Techniques  
+- ✅ CSS Transitions and Hover Animations  
+- ✅ Sticky, Fixed, and Relative Positioning  
 
 ---
