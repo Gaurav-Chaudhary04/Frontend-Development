@@ -27,5 +27,3 @@ Each question contains **separate `.html` and `.css` files** that build understa
 - ✅ **Practical Implementations:** Product cards, pricing tables, portfolio, loaders, and more  
 
 ---
-
-## 📂 Folder Structure
