@@ -1,5 +1,5 @@
 # 🧱 CSS Model Assignment  
-**Author:** Gaurav Chaudhary  
+**Author:** Gaurav Chaudhary
 **Course:** Web Development (5th Semester)  
 **Institute:** GLA University  
 **Branch:** css-model  
