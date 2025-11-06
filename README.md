@@ -1,37 +1,38 @@
-# 🧱 CSS Model Assignment  
-**Author:** Gaurav Chaudhary 
+# 🧱 CSS Responsive Design Assignment  
+**Author:** Gaurav Chaudhary  
 **Course:** Web Development (5th Semester)  
 **Institute:** GLA University  
-**Branch:** css-classes  
+**Branch:** responsive-css 
 
 ---
 
-## 📘 Overview
-This assignment demonstrates various **CSS styling and layout techniques** through ten practical exercises.  
-It covers the **Box Model**, **Selectors**, **Pseudo-classes**, **Flexbox**, **Grid**, **Transitions**, **Animations**, and **UI Components**, helping build a strong foundation in front-end design principles.  
+## 📘 Overview  
+This assignment demonstrates various **Responsive CSS techniques** through ten structured exercises.  
+It focuses on **Flexbox**, **Grid**, **Filters**, **Transitions**, **Media Queries**, and **Responsive Typography**, illustrating how modern web layouts adapt across devices.  
 
-Each question is implemented in a **separate HTML file** with **internal CSS only**, ensuring code clarity and simplicity.
-
----
-
-## 🧩 Topics Covered
-- CSS **Pseudo-classes** (`:hover`, `:focus`, `:active`, `:nth-child`)  
-- **CSS Tooltips** using position and transitions  
-- **Image Showcase** using Grid / Flexbox and hover effects  
-- Different **CSS Selectors** (element, class, ID, attribute, combinators)  
-- **Button Styling** with hover, focus, and disabled states  
-- **CSS Animations** with `@keyframes` and smooth transitions  
-- **UI Components** (search bar, dropdown, buttons) using Flexbox  
-- **Box Sizing** comparison (`content-box` vs `border-box`)  
-- **Combined Effects** using transitions, transformations, and pseudo-classes  
-- A **Mini UI Layout** with header, main content, and footer  
+Each question is implemented in a **separate HTML file** with its own **external CSS file**, ensuring modularity, readability, and scalability.
 
 ---
 
-## 🧰 Technologies Used
-- **HTML5** (Semantic Elements: `header`, `main`, `section`, `footer`)  
-- **CSS3** (Internal CSS only)  
+## 🧩 Topics Covered  
+- **Responsive Image Filter Gallery** using CSS Grid and filters  
+- **Flexbox Layouts** for adaptive web page structures  
+- **Responsive Cards** with media query breakpoints  
+- **Typography Scaling** with `clamp()` and relative units  
+- **Filter Cards with Animations** using `@keyframes`  
+- **CSS Cheat Sheet** demonstrating key responsive concepts  
+- **Combined Responsive Web Demo** integrating all techniques  
+- **Before–After Filter Comparison** layout  
+- **Responsive Design Principles Summary** (Fluid Layouts, Media, Breakpoints)  
+- **Responsive Dashboard Summary** using Grid and transitions  
+
+---
+
+## 🧰 Technologies Used  
+- **HTML5** (Semantic elements: `header`, `main`, `section`, `footer`, `figure`)  
+- **CSS3** (External Stylesheets)  
 - **Flexbox** and **Grid Layouts**  
-- **Transitions** and **Animations**
+- **CSS Filters**, **Transitions**, and **Animations**  
+- **Media Queries** for mobile-friendly responsiveness  
 
 ---
