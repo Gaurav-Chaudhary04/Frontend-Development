@@ -1,34 +1,34 @@
-# ⚡ JavaScript Assignment (Lec 1–3)  
+# 🎨 Bootstrap Assignment (Lec 25–28)  
 **Author:** Gaurav Chaudhary  
 **Course:** Web Development (5th Semester)  
 **Institute:** GLA University  
-**Branch:** javascript
+**Branch:** bootstrap
 
 ---
 
 ## 📘 Overview  
-This assignment includes **10 JavaScript story-based logic problems**, each using console-based scripts with separate `index.html`, `style.css`, and `script.js`.  
-Focus is on conditions, loops, arrays, mathematical logic, and real-world scenarios.
+This assignment contains **10 Bootstrap-based responsive web layouts** demonstrating Grid, Utilities, Components, Themes, Cards, Alerts, Pagination, and Carousel.  
+Each task is implemented in a **separate HTML & CSS file** with Bootstrap 5 CDN.
 
 ---
 
 ## 🧩 Topics Covered  
-- E-Commerce Delivery Estimator  
-- Banking Interest Calculator  
-- Cinema Ticket System  
-- Marks Analyzer (Grades + Fail Rules)  
-- Weather Alert System  
-- Game Reward Engine  
-- Restaurant Bill + Tips  
-- Employee Bonus Calculator  
-- Library Fine Calculator  
-- Random Coupon Generator (with prime bonus)  
+- Company Landing Page (Navbar, Hero)  
+- Personal Portfolio (Utilities, Forms)  
+- Product Catalog (Grid System)  
+- Restaurant Menu Page (Tables, List Groups)  
+- Custom Themed Blog (Theme override + Google Fonts)  
+- Notifications Dashboard (Alerts, Cards)  
+- Task Tracker (Badges, List Groups)  
+- Pricing Plans (Cards, Hover Effects)  
+- Blog Pagination  
+- Travel Carousel + Progress Bar  
 
 ---
 
-## 🛠️ Technologies Used  
-- **JavaScript (ES6)**  
-- Console-based outputs  
-- Clean, well-commented logic implementations
+## 🧰 Technologies Used  
+- **HTML5**, **CSS3**  
+- **Bootstrap 5** (Grid, Utilities, Components)  
+- Responsive layouts using containers, rows, and columns  
 
 ---
