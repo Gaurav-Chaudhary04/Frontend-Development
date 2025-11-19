@@ -1,4 +1,4 @@
-# ⚡ JavaScript Assignment (Lec 1–3)  
+# ⚡ JavaScript Assignment
 **Author:** Gaurav Chaudhary  
 **Course:** Web Development (5th Semester)  
 **Institute:** GLA University  
