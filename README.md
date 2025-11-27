@@ -1,7 +1,7 @@
-# ⚡ JavaScript DOM Assignment
+# ⚡ JavaScript Oops Assignment
 **Author:** Gaurav Chaudhary  
 **Course:** Web Development (5th Semester)  
 **Institute:** GLA University  
-**Branch:** dom
+**Branch:** js-oops
 
 ---
