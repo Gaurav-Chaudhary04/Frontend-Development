@@ -1,7 +1,7 @@
-# ⚡ JavaScript Oops Assignment
+# ⚡ JavaScript jQuery & Ajax Assignment
 **Author:** Gaurav Chaudhary  
 **Course:** Web Development (5th Semester)  
 **Institute:** GLA University  
-**Branch:** js-oops
+**Branch:** jquery
 
 ---
